@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/math-verify/commit/ba3d3aaff23b3f4cac7a14672b4f6e293d97c98b",
       "git:hexsha": "ba3d3aaff23b3f4cac7a14672b4f6e293d97c98b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T02:20:17.979960+00:00"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/math-verify/commit/21e1e29ea6031eb16081af95472e1f855a24829f",
