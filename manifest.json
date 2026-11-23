@@ -108,6 +108,153 @@
       ],
       "ast": [
         "aggregate/ast/5dd58dbce0d307e649ccfbc5fac120a5941d73d0/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/5dd58dbce0d307e649ccfbc5fac120a5941d73d0.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "latex2sympy2-extended",
+          "ecosystem": "PYPI",
+          "version": "1.0.0",
+          "githubOrg": "OrangeX4",
+          "githubRepo": "latex2sympy2",
+          "githubUrl": "https://github.com/OrangeX4/latex2sympy2",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "lighteval",
+          "ecosystem": "PYPI",
+          "version": "0.13.0",
+          "githubOrg": "huggingface",
+          "githubRepo": "lighteval",
+          "githubCommit": "7c1cd62716b0a198a630c26d781430c54726cd02",
+          "githubTag": "v0.13.0",
+          "githubUrl": "https://github.com/huggingface/lighteval",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "builtins",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "sympy",
+          "ecosystem": "PYPI",
+          "version": "1.14.0",
+          "githubOrg": "sympy",
+          "githubRepo": "sympy",
+          "githubCommit": "fe935ceb303891d1f8bea4c03b19fd9ec9464b02",
+          "githubTag": "1.14.0",
+          "githubUrl": "https://github.com/sympy/sympy",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/sympy/core/containers.py"
+        },
+        {
+          "packageName": "re",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "typing",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "itertools",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "dataclasses",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "functools",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "textwrap",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "logging",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "argparse",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "multiprocessing.process",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "multiprocessing.queues",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "multiprocessing.context",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "signal",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "datetime",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "os",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "multiprocessing",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        }
       ]
     }
   ],
