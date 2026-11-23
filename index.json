@@ -3,6 +3,11 @@
   "repo": "math-verify",
   "versions": [
     {
+      "commit": "5dd58dbce0d307e649ccfbc5fac120a5941d73d0",
+      "tag": "1.0.0",
+      "parsed_at": "2026-11-23T07:14:34.166909+00:00"
+    },
+    {
       "commit": "ba3d3aaff23b3f4cac7a14672b4f6e293d97c98b",
       "tag": "",
       "parsed_at": "2026-11-06T02:20:18.036324+00:00"
